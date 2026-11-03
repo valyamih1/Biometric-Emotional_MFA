@@ -4,7 +4,6 @@ A two-factor login. Factor one is a password. Factor two is a liveness-bound
 biometric assertion from a local authenticator that reads your face and your
 expression.
 
-Built for IT8527 Cryptography and Security Mechanisms, WelTec.
 
 The whole point of the design is this: your biometric never leaves your machine.
 The server only ever sees a signature. No face, no embedding, no template is
