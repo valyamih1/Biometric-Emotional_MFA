@@ -142,7 +142,6 @@ history. The unsuffixed name is the one to use.
 
 ## Security notes and limitations
 
-I would rather state these plainly than oversell the system.
 
 **The attestation gap.** Run `authenticator.py --simulate` and it signs a
 fabricated transcript with your real credential, with no camera involved, and the
